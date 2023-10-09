@@ -1,5 +1,3 @@
-POWER BI-NETFLIX
-
 **Business Objective:** To visualize the insights gathered from the
 Netflix dataset into an interactive dashboard which shows us the
 country wise Views of the TV Shows and Movies, the number of
